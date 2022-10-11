@@ -6,7 +6,7 @@
 
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abraham-molina-8b9711221/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="abraham molina" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/abraham-molina/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="abraham molina" height="50" width="50" /></a>
 </p>
 <p align="left">
 <a href="mailto:abrahanm7@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="abraham molina" height="50" width="50" /></a>
