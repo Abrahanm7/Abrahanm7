@@ -6,10 +6,8 @@
 Soy Desarrollador Web Full Stack egresado en Henry. Disfruto programando y la curiosidad es algo que me carecteriza, siempre busco seguir aprendiendo y creciendo. Me adapto a mi entorno y me desenvuelvo muy bien trabajando en equipo. Busco marcar una diferencia en lo que hago.
 
 <h3 align="left">Contacta conmigo:</h3>
-<p align="left">📧 abrahanm7@gmail.com
-</p>
 <p align="left">
-<a href="https://linkedin.com/in/abraham molina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abraham molina" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abraham-molina-8b9711221/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/60/378/png-transparent-social-media-linkedin-computer-icons-logo-facebook-shelf-drum-blue-text-rectangle.png" alt="abraham molina" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y tecnologías:</h3>
